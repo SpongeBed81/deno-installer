@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deno Installer", "Deno Installer\Deno Installer.csproj", "{42BCED20-58D3-4F1E-BB6D-60AB5BE572EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42BCED20-58D3-4F1E-BB6D-60AB5BE572EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BCED20-58D3-4F1E-BB6D-60AB5BE572EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BCED20-58D3-4F1E-BB6D-60AB5BE572EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BCED20-58D3-4F1E-BB6D-60AB5BE572EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6228A3-7C22-4A78-9427-785E45E24B5A}
+	EndGlobalSection
+EndGlobal
