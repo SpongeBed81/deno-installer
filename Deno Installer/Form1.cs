@@ -75,7 +75,7 @@ namespace Deno_Installer
                 WebClient webClient = new WebClient();
                 webClient.DownloadFileCompleted += new AsyncCompletedEventHandler(Completed);
                 webClient.DownloadProgressChanged += new DownloadProgressChangedEventHandler(ProgressChanged);
-                webClient.DownloadFileAsync(new Uri("https://github.com/denoland/deno/releases/download/v1.16.4/deno-x86_64-pc-windows-msvc.zip"), specificFolder);
+                webClient.DownloadFileAsync(new Uri("https://github.com/denoland/deno/releases/download/v1.17.3/deno-x86_64-pc-windows-msvc.zip"), specificFolder);
             } else
             {
                 MessageBox.Show("You Already Have A Folder Called denoland In Your AppData Folder!");
